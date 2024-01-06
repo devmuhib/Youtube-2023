@@ -25,7 +25,7 @@ const Hero = () => {
             </h1>
 
             <div
-              data-aos="fade=up"
+              data-aos="fade-up"
               data-aos-duration="1800"
               data-aos-delay="200"
               className="flex items-center gap-6 mt-7"
@@ -48,7 +48,7 @@ const Hero = () => {
               className="flex gap-2 text-headingColor mt-12 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10"
             >
               <span>
-                <i class="ri-apps-2-line"></i>
+                <i className="ri-apps-2-line"></i>
               </span>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Laudantium perspiciatis soluta nam veritatis, nulla unde
@@ -65,7 +65,7 @@ const Hero = () => {
                   href="#github"
                   className="text-smallTextColor text-[18px] font-[600] "
                 >
-                  <i class="ri-github-line"></i>
+                  <i className="ri-github-line"></i>
                 </a>
               </span>
               <span>
@@ -73,7 +73,7 @@ const Hero = () => {
                   href="#facebook"
                   className="text-smallTextColor text-[18px] font-[600] "
                 >
-                  <i class="ri-facebook-circle-line"></i>
+                  <i className="ri-facebook-circle-line"></i>
                 </a>
               </span>
               <span>
@@ -81,7 +81,7 @@ const Hero = () => {
                   href="#instagram"
                   className="text-smallTextColor text-[18px] font-[600] "
                 >
-                  <i class="ri-instagram-line"></i>
+                  <i className="ri-instagram-line"></i>
                 </a>
               </span>
               <span>
@@ -89,7 +89,7 @@ const Hero = () => {
                   href="#youtube"
                   className="text-smallTextColor text-[18px] font-[600] "
                 >
-                  <i class="ri-youtube-line"></i>
+                  <i className="ri-youtube-line"></i>
                 </a>
               </span>
             </div>
